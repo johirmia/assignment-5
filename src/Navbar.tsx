@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import Logo from "./Logo";
+import Logo from "./logo";
 
 const links = [
   { label: "Home", href: "#home" },
