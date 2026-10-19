@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "name": "React",
+    "category": "Frontend",
+    "description": "A JavaScript library for building user interfaces.",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular",
+    "icon": "⚛️"
+  },
+  {
+    "id": 2,
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "A progressive framework for building web interfaces.",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile",
+    "icon": "🟢"
+  },
+  {
+    "id": 3,
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime for server-side applications.",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Standard",
+    "icon": "🟩"
+  },
+  {
+    "id": 4,
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "An open-source relational database system.",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL",
+    "icon": "🐘"
+  },
+  {
+    "id": 5,
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "A versatile language for interactive web applications.",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential",
+    "icon": "JS"
+  },
+  {
+    "id": 6,
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "JavaScript with static types for safer development.",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Modern",
+    "icon": "TS"
+  },
+  {
+    "id": 7,
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for custom designs.",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular",
+    "icon": "〰️"
+  },
+  {
+    "id": 8,
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform for building and running containers.",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Containers",
+    "icon": "🐳"
+  },
+  {
+    "id": 9,
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "A React framework for full-stack web applications.",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular",
+    "icon": "N"
+  },
+  {
+    "id": 10,
+    "name": "Redis",
+    "category": "Database",
+    "description": "An in-memory data store for caching and messaging.",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Cache",
+    "icon": "🟥"
+  }
+]
